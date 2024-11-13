@@ -17,8 +17,8 @@ It supports flags, numerical values (integers, floats), strings, and lists, and 
 To use this utility in your project:
 
 - Clone this repository.
-- Include `TConf.h` in your project.
-- Compile `TConf.cpp` along with your main program.
+- Include `TConf.h` (from the `src` subdirectory) in your project.
+- Compile `TConf.cpp` (from the `src` subdirectory) along with your main program.
 
 ## Configuration File Format
 
